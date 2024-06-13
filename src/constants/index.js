@@ -124,40 +124,40 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
-    icon: coverhunt,
-    iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
-  },
-  {
-    title: 'Mentor (Volunteer)',
+    title: 'FullStack Software Engineer',
     company_name: 'Microverse',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'Jan 2022 - March 2024',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
+    title: ' Code Reviewer',
+    company_name: 'Microverse',
+    icon: microverse,
+    iconBg: '#333333',
+    date: 'April 2023 - March 2024',
+  },
+  {
+    title: 'Software Engineer',
+    company_name: 'ZuriTeam',
     icon: kelhel,
     iconBg: '#333333',
     date: 'May 2022 - Oct 2022',
   },
   {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
+    title: 'Software developer intern',
+    company_name: 'Quanteq Technology Services',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'Jan  2016 - Aug 2016',
   },
 ];
 
 const projects = [
   {
     id: 'project-1',
-    name: 'KomiKult',
-    description: 'A comic characters list app that displays Marvel characters.',
+    name: 'Pipsgod Academy',
+    description: 'An online learning platform for users interested in learning FOREX trading.This website is built with comprehensive courses from the basics of forex market to advanced trading strategies.',
     tags: [
       {
         name: 'react',
@@ -173,14 +173,14 @@ const projects = [
       },
     ],
     image: komikult,
-    repo: 'https://github.com/shaqdeff/KomiKult',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    repo: 'https://github.com/vickymarz/pips-god',
+    demo: 'https://pipsgod.netlify.app/',
   },
   {
     id: 'project-2',
-    name: 'Leaderboard',
+    name: 'SevenWeek Planner',
     description:
-      'A leaderboard list app that displays scores submitted by different players.',
+      'A webapp for showing a users availability in time over a period of seven weeks which can be shared with friends to plan hangouts.',
     tags: [
       {
         name: 'react',
@@ -196,13 +196,13 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/shaqdeff/Leaderboard',
-    demo: 'https://shaqdeff.github.io/Leaderboard/',
+    repo: 'https://github.com/usorfaitheloho/SevenWeek-Planner',
+    demo: 'https://unfairadvantage.netlify.app/',
   },
   {
     id: 'project-3',
-    name: 'Math Magicians',
-    description: 'This is a single-page calculator app built with React',
+    name: 'Always Care',
+    description: 'Alwayscare doctors appointment app is a software application that is especially meant to help patients manage and schedule appointments with the doctors or opt for a real-time chat.',
     tags: [
       {
         name: 'nextjs',
@@ -218,13 +218,13 @@ const projects = [
       },
     ],
     image: math,
-    repo: 'https://github.com/shaqdeff/Math-Magicians',
-    demo: 'https://inspiring-medovik-37d3b3.netlify.app/',
+    repo: 'https://github.com/vickymarz/doctors-appointment-frontend',
+    demo: 'https://doctors-appointment-app-2k1t.onrender.com/',
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    name: 'Meta BNB',
+    description: `A website that provides access to luxury and affordable houses in the metaverse, turning your imagination to reality at your comfort zone Search for location on the metaverse`,
     tags: [
       {
         name: 'nextjs',
@@ -240,14 +240,14 @@ const projects = [
       },
     ],
     image: movie,
-    repo: 'https://github.com/shaqdeff/Movie-Metro',
-    demo: 'https://movie-metro.netlify.app/',
+    repo: 'https://github.com/usorfaitheloho/metabnb',
+    demo: 'https://metabnb-site.netlify.app/',
   },
   {
     id: 'project-5',
-    name: 'Nyeusi Fest Site',
+    name: 'HackHerThon',
     description:
-      'This is a demo concert website for a music festival called Nyeusi.',
+      'A website for a HackHerTon event for female Software developers , to be held in Nigeria.',
     tags: [
       {
         name: 'nextjs',
@@ -263,8 +263,8 @@ const projects = [
       },
     ],
     image: nyeusi,
-    repo: 'https://github.com/shaqdeff/Nyeusi-Fest-Site',
-    demo: 'https://shaqdeff.github.io/Nyeusi-Fest-Site/',
+    repo: 'https://github.com/usorfaitheloho/HackHerThon',
+    demo: 'https://hackherthon.netlify.app/',
   },
 ];
 
