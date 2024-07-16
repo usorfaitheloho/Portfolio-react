@@ -26,6 +26,7 @@ import {
   coverhunt,
   dcc,
   kelhel,
+  unfairadvantage,
   microverse,
 } from '../assets';
 
@@ -125,7 +126,16 @@ const technologies = [
 const experiences = [
   {
     title: 'FullStack Software Engineer',
+    company_name: 'Unfair Advantage Oy',
+    url: 'https://future.sportsnetwork.fi/',
+    icon:  unfairadvantage,
+    iconBg: '#333333',
+    date: 'June 2022 - Present',
+  },
+  {
+    title: 'FullStack Software Engineer',
     company_name: 'Microverse',
+    url: 'https://dashboard.microverse.org/',
     icon: microverse,
     iconBg: '#333333',
     date: 'Jan 2022 - March 2024',
@@ -133,6 +143,7 @@ const experiences = [
   {
     title: ' Code Reviewer',
     company_name: 'Microverse',
+    url: 'https://dashboard.microverse.org/',
     icon: microverse,
     iconBg: '#333333',
     date: 'April 2023 - March 2024',
@@ -140,6 +151,7 @@ const experiences = [
   {
     title: 'Software Engineer',
     company_name: 'ZuriTeam',
+    url: 'https://www.zuri.team/',
     icon: kelhel,
     iconBg: '#333333',
     date: 'May 2022 - Oct 2022',
@@ -147,6 +159,7 @@ const experiences = [
   {
     title: 'Software developer intern',
     company_name: 'Quanteq Technology Services',
+    url: 'https://www.quanteq.biz/',
     icon: dcc,
     iconBg: '#333333',
     date: 'Jan  2016 - Aug 2016',

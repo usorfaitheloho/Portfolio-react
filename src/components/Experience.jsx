@@ -42,11 +42,20 @@ const ExperienceCard = ({ experience }) => (
       <h3 className="text-jetLight text-[24px] font-bold font-beckman tracking-[2px]">
         {experience.title}
       </h3>
-      <p
+      {/* <h2>{job.title} at <a href={job.url} target="_blank" rel="noopener noreferrer">{job.company_name}</a></h2> */}
+      {/* <p
         className="text-taupe text-[22px] font-semibold font-overcameBold tracking-[1px]"
         style={{ margin: 0 }}>
         {experience.company_name}
-      </p>
+      </p> */}
+      <a
+        href={experience.url}
+        target="_blank"
+         rel="noopener noreferrer"
+        className="text-taupe text-[22px] font-semibold font-overcameBold tracking-[1px]"
+        style={{ margin: 0 , textDecoration: 'underline'}}>
+        {experience.company_name}
+      </a>
     </div>
   </VerticalTimelineElement>
 );
