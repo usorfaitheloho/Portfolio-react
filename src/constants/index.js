@@ -130,7 +130,7 @@ const experiences = [
     url: 'https://future.sportsnetwork.fi/',
     icon:  unfairadvantage,
     iconBg: '#333333',
-    date: 'June 2022 - Present',
+    date: 'June 2024 - Present',
   },
   {
     title: 'FullStack Software Engineer',
