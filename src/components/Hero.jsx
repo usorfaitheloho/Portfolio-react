@@ -46,7 +46,7 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              I'm a software developer 
+              A software developer 
               open to new opportunities. Look through
                my work and experience and contact me!
             </p>
