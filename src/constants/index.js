@@ -133,7 +133,7 @@ const experiences = [
     date: 'June 2024 - Present',
   },
   {
-    title: 'FullStack Software Engineer',
+    title: 'FullStack Software Engineer Intern',
     company_name: 'Microverse',
     url: 'https://dashboard.microverse.org/',
     icon: microverse,
@@ -149,7 +149,7 @@ const experiences = [
     date: 'April 2023 - March 2024',
   },
   {
-    title: 'Software Engineer',
+    title: 'Software Engineer intern',
     company_name: 'ZuriTeam',
     url: 'https://www.zuri.team/',
     icon: kelhel,
