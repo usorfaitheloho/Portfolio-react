@@ -125,7 +125,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'FullStack Software Engineer',
+    title: 'FullStack Software Engineer Intern',
     company_name: 'Unfair Advantage Oy',
     url: 'https://future.sportsnetwork.fi/',
     icon:  unfairadvantage,
@@ -149,7 +149,7 @@ const experiences = [
     date: 'April 2023 - March 2024',
   },
   {
-    title: 'Software Engineer intern',
+    title: 'Software Engineer Intern',
     company_name: 'ZuriTeam',
     url: 'https://www.zuri.team/',
     icon: kelhel,
@@ -157,7 +157,7 @@ const experiences = [
     date: 'May 2022 - Oct 2022',
   },
   {
-    title: 'Software developer intern',
+    title: 'Software developer Intern',
     company_name: 'Quanteq Technology Services',
     url: 'https://www.quanteq.biz/',
     icon: dcc,
